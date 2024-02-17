@@ -26,6 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 ![Activate IIS services](https://github.com/JZumbuehl/osticket-prereqs/assets/159186024/29ae5c8b-9f17-41f1-939d-250f87d35c09)
+![image](https://github.com/JZumbuehl/osticket-prereqs/assets/159186024/119fa563-3a8e-4b28-ada0-be28ca29eea3)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
