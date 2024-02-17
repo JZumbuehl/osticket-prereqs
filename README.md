@@ -25,9 +25,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 5 configure permissions install OD ticket
 
 <h2>Installation Steps</h2>
+![Activate IIS services](https://github.com/JZumbuehl/osticket-prereqs/assets/159186024/58e172b3-d5f9-4048-9d01-7b46e7dd7c4b)
 
 <p>
-![Activate IIS services](https://github.com/JZumbuehl/osticket-prereqs/assets/159186024/2ca1f6c8-45b1-4e58-a527-f5c5bfcaa9e0)
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
