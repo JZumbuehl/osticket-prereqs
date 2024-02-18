@@ -31,11 +31,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/JZumbuehl/osticket-prereqs/assets/159186024/3a4e5fb1-01a2-4286-b86d-94b3266437f4" height="80%" width="80%" alt="ISS Installation"/>
 </p>
 <p>
-  1) Go to Apps & Features under setting
-  2) select Programs an Features
-  3) Select Turn Windows features on or off
-  4)navigate to Internet Information Services>World Wide Web Services
-  5) Under Application Development Features make sure CGI is selected
+  -1) Go to Apps & Features under setting
+ - 2) select Programs an Features
+ - 3) Select Turn Windows features on or off
+-  4)navigate to Internet Information Services>World Wide Web Services
+  -5) Under Application Development Features make sure CGI is selected
   6)under Common HTTP Features make sure every folder is checked.
 </p>
 <br />
