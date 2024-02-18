@@ -33,15 +33,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   1) Go to Apps & Features under setting
   
-  2) select Programs an Features
+  2) Select Programs an Features
   
   3) Select Turn Windows features on or off
   
-  4)navigate to Internet Information Services>World Wide Web Services
+  4) Navigate to Internet Information Services>World Wide Web Services
   
   5) Under Application Development Features make sure CGI is selected
   
-  6)under Common HTTP Features make sure every folder is checked.
+  6) Under Common HTTP Features make sure every folder is checked.
   
 </p>
 <br />
@@ -71,7 +71,9 @@ Download PHP Files and other resources.
   3) Extract PHP files into the newly created folder 
   
   4) Register PHP from within IIS, then restart
-  5) 
+  
+  5) Set up osTicket permissions.
+     
 </p>
 <br />
 
